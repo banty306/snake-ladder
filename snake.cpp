@@ -5,13 +5,13 @@
 #include<string>
 using namespace std;
 
-// Function Prototypes
+
 void board();
 int roll();
 void check_location(int &p, int &cm, int s1, int s2, int s3, int l1, int l2, int l3);
 void check_progress(int x, int y);
 
-// Declaration of arrays for table
+
 char player[100];
 char computer[100];
 string snakes[2000];
