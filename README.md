@@ -18,9 +18,9 @@ So there is a bit change as the question was to just print the value of dice in 
 but it order to make it look a bit good and easy to understand I just used few symbols to make it look like a real game board.
 The link of the question is : https://workat.tech/machine-coding/practice/snake-and-ladder-problem-zgtac9lxwntg
 ## Screenshots
-[Example screenshot](./screen-shot/Screenshot (222).png)
-[Example screenshot](./screen-shot/Screenshot (222).png
-[Example screenshot](./screen-shot/Screenshot (225).png)
+(./screen-shot/Screenshot (222).png)
+(./screen-shot/Screenshot (222).png
+(./screen-shot/Screenshot (225).png)
 
 ## Technologies
 * C++
